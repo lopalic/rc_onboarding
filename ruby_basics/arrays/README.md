@@ -15,7 +15,7 @@ For example, if you wanted to access the first element of `my_second_array`, you
 To change an element in an array, you can assign the value to the desired element index:
 `my_second_array[1] = 5 # this would change my_second_array[1]'s value from 2 to 5`
 
-Also, unline other languages, Ruby does not care about having different variable types in an array(list) object.
+Also, unline other languages, Ruby does not care about having different types in an array(list) object.
 Doing `puts [5, 'a', 3.1415, true]` would be completely valid syntax, as can be seen if you run `ruby example` from this directory.
 
 [Click here to go back to the Ruby basics](../)
