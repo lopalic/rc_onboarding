@@ -10,4 +10,4 @@ This is more or less all there is to say about comments in Ruby.
 
 [Click here to go back to the Ruby basics](../)
 
-[Click here to go to the next chapter](../variable_and_types/)
+[Click here to go to the next chapter](../variables_and_types/)
