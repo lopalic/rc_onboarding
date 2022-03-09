@@ -6,18 +6,15 @@ This chapter will cover the following topics:
 
 1. [what is Ruby?](what_is_ruby/)
 2. [a simple "Hello world!" program/script](hello_world/)
-3. comments
-4. variables and types
-5. math
-6. strings
-7. arrays
-8. hashes and symbols
-9. conditional statements
-10. unless, until, while
-11. loops
-12. functions
-13. functions with parameters
-14. pry debugger
-
-NOTE:
-all of the above list items should actually have working links :)
+3. [comments](comments/)
+4. [variables and types](variables_and_types/)
+5. [math](math/)
+6. [strings](strings/)
+7. [arrays](arrays/)
+8. [hashes and symbols](hashes_and_symbols/)
+9. [conditional statements](conditional_statements/)
+10. [unless, until, while](unless_until_while/)
+11. [loops](loops/)
+12. [functions](functions/)
+13. [functions with parameters](functions_with_parameters/)
+14. [pry debugger](pry_debugger/)
