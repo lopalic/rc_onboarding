@@ -6,7 +6,7 @@ Everything included in this repository should be enought to get you sterted work
 
 Convenient links to the other parts of this repository:
 
-1. Ruby basics
-2. Ruby OOP
-3. Git
-4. Linux
+1. [Ruby basics](ruby_basics/)
+2. [Ruby OOP](ruby_oop/)
+3. [Git](git/)
+4. [Linux](linux/)
