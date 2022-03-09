@@ -2,7 +2,7 @@
 
 This is the idea for an onboarding repository for RubyCode.
 
-Everything included in this repository should be enought to get you sterted working on any Ruby project.
+Everything included in this repository should be enough to get you started working on any Ruby project.
 
 Convenient links to the other parts of this repository:
 
