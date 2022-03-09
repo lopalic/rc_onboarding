@@ -5,7 +5,7 @@ Hello and welcome to a basic course on the Ruby programing language!
 This chapter will cover the following topics:
 
 1. [what is Ruby?](what_is_ruby/)
-2. a simple "Hello world!" program/script
+2. [a simple "Hello world!" program/script](hello_world/)
 3. comments
 4. variables and types
 5. math
