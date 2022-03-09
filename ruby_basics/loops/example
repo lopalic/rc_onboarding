@@ -1,0 +1,5 @@
+my_hash = { a: 1, b: 2, c: 3}
+
+my_hash.each do |key, value|
+  puts "hash on key: #{key} has the value: #{value}"
+end
