@@ -16,4 +16,4 @@ You can even interract with the variables and objects that you have available to
 
 Amazing to say the least, words cannot describe how amazing of an experience this debugger is, look for any resource regarding the pry debugger online and you can't go wrong, any tutorial on it is an 11/10 and a must read/watch for any Ruby developer.
 
-This is the end of the Ruby basics, you can only [click here to go back to the root of the repository](../../)
+This is the end of the Ruby basics, you can only go back to the repository root from here and continue with Ruby OOP.
