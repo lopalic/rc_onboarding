@@ -18,4 +18,5 @@ replacing the filename with whatever you named it and it would print out `'Hello
 
 You can try this out if you've cloned this repository by running `ruby hello` from this directory.
 
-[Click here to got back to the Ruby basics](../)
+[Click here to go back to the Ruby basics](../)
+[Click here to go to the next chapter](../comments/)

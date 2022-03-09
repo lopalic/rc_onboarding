@@ -19,3 +19,6 @@ This means, that unlike the C family of languages(C, C++, C#, etc.) or for examp
 
 - Running a script shell within a script shell is probably one of the slowest thing in the world
 - Can be tedious to debug if there are environment differences between shells or OS-es
+
+[Click here to go back to the Ruby basics](../)
+[Click here to go to the next chapter](../hello_world/)
