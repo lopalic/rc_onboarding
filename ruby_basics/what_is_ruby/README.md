@@ -11,6 +11,9 @@ This means, that unlike the C family of languages(C, C++, C#, etc.) or for examp
 - Faster to write code
 - Faster to get an idea working
 - Faster to test things out without depending on anything at all
+- Doesn't care much about syntax, pretty much anything that's working can be interpreted into a working script/program
+- Simple and easy to understand code
+
 
 ## Cons:
 
