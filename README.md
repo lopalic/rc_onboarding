@@ -1,4 +1,4 @@
-# RubyCode onboarding
+# RC onboarding
 
 This is the idea for an onboarding repository for RubyCode.
 
