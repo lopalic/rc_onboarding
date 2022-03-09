@@ -29,3 +29,7 @@ Chaining method calls is also working in Ruby, they are evaluated from left to r
 
 You can also check for sub-strings easily.
 `'Hello world!'.include?('Hello') # will return true`
+
+[Click here to go back to the Ruby basics](../)
+
+[Click here to go to the next chapter](../arrays/)
