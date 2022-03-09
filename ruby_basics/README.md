@@ -21,6 +21,3 @@ This chapter will cover the following topics:
 
 NOTE:
 all of the above list items should actually have working links :)
-
-[Click here to got back to the Ruby basics](../)
-[Click here to go to the next chapter](../hello_world/)
