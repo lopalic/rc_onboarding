@@ -29,7 +29,6 @@ This is a bit different from unsing just `value` in the case of arrays, but the 
 So for a couple of examples:
 `[1, 2, 3]` would only need a single iterator, in this example, called `value` to iterate over the values.
 `{ a: 1, b: 2, c: 3}` neeeds two iterators, one for the keys and the other for the values to iterate over both of them.
-`[(1,'a','whatever'), (2,'b','something else)]` is an array of 2 tupples, which would need three iterators, one for each of the values in a given instance of a tupple.
 
 You can try the example involving hashes out by running `ruby example` from this directory!
 
