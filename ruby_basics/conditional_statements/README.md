@@ -25,9 +25,9 @@ You can also combine multiple `if` statements by using `elsif` and `else` as wel
 ```
 if condition
   # something to be done
-elseif some_other_condition
+elsif some_other_condition
   # something else to be done if the first condition is false
-elseif some_other_second_condition
+elsif some_other_second_condition
   # something lse to be done if the first and second condtions are false
 else
   # other thing to be done if all of the above conditions are false
