@@ -30,13 +30,13 @@ class Car
 end
 
 class BMW < Car
-  def intialize(car_message: car_message)
+  def intialize(car_message:)
     @car_message = car_message
   end
 end
 
 class Stojadin < Car
-  def intialize(car_message: car_message)
+  def intialize(car_message:)
     @car_message = car_message
   end
 end
