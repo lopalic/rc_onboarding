@@ -9,7 +9,7 @@ Say, for example, you have the `[1, 2, 3]` array and you wanted to loop/iterate 
   puts value
 end
 ```
-Here, `value` is the iterator going through each and every element in `[1, 2, 3]` array and accessing the value of that element of the array.
+Here, `value` is the iterator going through each and every element in the `[1, 2, 3]` array and accessing the value of that element of the array.
 
 Similarly, if you had say a hash like this `{ a: 1, b: 2, c: 3}` and you wanted to loop/iterate over it and print its keys and values, you could do this:
 ```
@@ -28,9 +28,9 @@ This would print out:
 This is a bit different from unsing just `value` in the case of arrays, but the general idea is that you put everything a given element has into an iterating variable.
 So for a couple of examples:
 `[1, 2, 3]` would only need a single iterator, in this example, called `value` to iterate over the values.
-`{ a: 1, b: 2, c: 3}` neeeds two iterators, one for the keys and the other for the values to iterate over both of them.
+`{ a: 1, b: 2, c: 3}` needs two iterators, one for the keys and the other for the values to iterate over both of them.
 
-You can try the example involving hashes out by running `ruby example` from this directory!
+You can try out the example involving hashes by running `ruby example` from this directory!
 
 [Click here to go back to the Ruby basics](../)
 

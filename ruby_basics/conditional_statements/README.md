@@ -1,6 +1,6 @@
 # Conditional statements
 
-Conditional are used to add branching logic to your programs/scripts, they allow you to include complex behaviour that onyl occurs under specific conditions.
+Conditionals are used to add branching logic to your programs/scripts, they allow you to include complex behaviour that only occurs under specific conditions.
 
 Here's an example of an `if` statement:
 
@@ -10,9 +10,9 @@ if condition
 end
 ```
 
-`condition` is an expression that can be check whether it's evaluating to a `true` or `false` value, depending on that, the code block is executed.
+`condition` is an expression that can be checked whether it's evaluating to a `true` or `false` value, depending on that, the code block is executed.
 
-You can combine `if` with the keyword `else`. This lets you execute one block of code if the condition is `true`, and a different one, if the condition is `false`.
+You can combine `if` with the keyword `else`. This lets you execute one block of code if the condition is `true`, or a different one, if the condition is `false`.
 ```
 if condition
   # something to be done

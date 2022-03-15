@@ -1,9 +1,9 @@
 # Strings
 
 A string is a collection of characters inside quotation marks.
-String are interpreted as raw text.
+Strings are interpreted as raw text.
 
-You can used single or double quotes ofr strings, either is acceptable*.
+You can use single or double quotes for strings, either is acceptable*.
 
 ```
 my_first_string = 'I am a string!'

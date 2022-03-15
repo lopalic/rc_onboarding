@@ -14,7 +14,7 @@ in a file (the extension does not matter at all if you're working on Linux) and 
 ruby <my_file>
 ```
 
-replacing the filename with whatever you named it and it would print out `'Hello world!'`.
+replacing the file name with whatever you named it and it would print out `'Hello world!'`.
 
 You can try this out if you've cloned this repository by running `ruby hello` from this directory.
 

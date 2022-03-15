@@ -1,14 +1,14 @@
 # Math
 
 You can use Ruby to perform mathematical calculations.
-The found standard operators are probably familiar to you:
+The four standard operators are probably familiar to you:
 
 - `+` for addition
 - `-` for subtraction
 - `*` for multiplication
 - `/` for division
 
-The two other less-familiar operators are `**` and `%`.
+The two other less familiar operators are `**` and `%`.
 
 `**` is used for exponents in the format of `<base value>**<power>`.
 

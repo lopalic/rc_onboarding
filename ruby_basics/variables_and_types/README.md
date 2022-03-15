@@ -1,12 +1,12 @@
 # Variables and types
 
-Variables are a named piece of data. You can use a variable to store a value within your program/script, and refer to it later by the variable name.
+Variables are a named piece of data. You can use a variable to store a value within your program/script, and refer to it later by using the variable name.
 
 Varibales in Ruby are defined using `=`, for example:
 
 `my_first_variable = "This is my first variable!"`
 
-Once you've assigned a value to a varibale, you can access it value by referring to it, for example, if you wanted to print the value of `my_first_variable` you could do something like this:
+Once you've assigned a value to a variable, you can access its value by referring to it, for example, if you wanted to print the value of `my_first_variable` you could do something like this:
 
 `puts my_first_variable`
 

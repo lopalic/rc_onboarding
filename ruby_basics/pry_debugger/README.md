@@ -1,13 +1,13 @@
 # Pry Debugger
 
-This is, hands down, the awesomest thing to exist in Ruby.
+This is, hands down, the awesomest thing that exists in Ruby.
 
-Anywhere in your code, you can write `binding.pry`, if pry is included as a gem in your project and your program/script will stop there.
+Anywhere in your code, you can write `binding.pry`, if `pry` is included as a gem in your project, and your program/script will stop there.
 
 At that point, you can look around the current environment using a simple `ls` command.
-This allows you to see all the methods and functions that are available to you at that specific point where you wrote `binding.pry`.
+This allows you to see all the methods and functions that are available to you at that specific point, where you wrote `binding.pry`.
 
-You can look into what a given object can do by simply doing `ls <whatever object is available at this point>`. 
+You can look into what a given object can do by doing `ls <whatever object is available at this point>`. 
 This allows you to see the class and the methods that are available to you from that particular object.
 
 You can do anything the code is supposed to do manually and check how it behaves.

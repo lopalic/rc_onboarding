@@ -1,10 +1,10 @@
 # What is Ruby?
 
-Beofre saying anything else about Ruby, it is firs and foremost a script language.
+Before saying anything else about Ruby, it is first and foremost a script language.
 
 This means that it is **NOT** compiled and, is instead, **evaluated**.
 
-This means, that unlike the C family of languages(C, C++, C#, etc.) or for example Java, the code you write can be ran wihtout the need for a compiler!
+This means, that unlike the C family of languages(C, C++, C#, etc.) or, for example Java, the code you write can be ran without the need for a compiler!
 
 ## Pros:
 

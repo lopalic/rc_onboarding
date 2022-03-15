@@ -1,6 +1,6 @@
 # Unless, until, while
 
-The `unless` statement is strcture similarly to an `if` statement:
+The `unless` statement is structure similar to an `if` statement:
 ```
 unless condition
   # something to be done
