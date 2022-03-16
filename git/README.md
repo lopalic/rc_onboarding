@@ -7,8 +7,7 @@ There are many resources to learn about and how to use Git, but the following ar
 
 These resources should contain more than enough examples and explanations on what to do with Git than you would ever need to get started.
 
-Just remember
-
+Just remember to:
 - take it slow
 - don't rush things if you don't understand them at first
 - if everything is too much to take in at once, find a simple way of working for yourself, stick to it and build up from there
