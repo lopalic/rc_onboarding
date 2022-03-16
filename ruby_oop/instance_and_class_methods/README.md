@@ -27,6 +27,6 @@ my_object.from_the_class # would print out "undefined method `from_the_class' fo
 my_object.from_an_instance # would print out 'this needs an instance to be called'
 ```
 
-[Click here to go back to the Ruby OOP](../)
+[Click here to go back to the Ruby OOP chapter](../)
 
 [Click here to go to the next chapter](../instance_and_class_variables/)

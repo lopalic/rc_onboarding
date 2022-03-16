@@ -42,6 +42,6 @@ One wilting away does not affect the other.
 
 This is the same for all of the instances of `Dandelions` you would ever create, they would all have to `grow` on their own, and `wilt` on their own, without any other `Dandelion` caring much about the other.
 
-[Click here to go back to the Ruby OOP](../)
+[Click here to go back to the Ruby OOP chapter](../)
 
 [Click here to go to the next chapter](../instance_and_class_methods/)

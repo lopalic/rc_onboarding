@@ -87,6 +87,6 @@ However, `papa` is the only one who gets assigned a `quadcopter` and it is only 
 
 The examples continue in this fashion, see if you can understand all of them!
 
-[Click here to go back to the Ruby OOP](../)
+[Click here to go back to the Ruby OOP chapter](../)
 
 [Click here to go to the next chapter](../attribute_accessors/)

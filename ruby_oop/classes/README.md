@@ -75,6 +75,6 @@ my_plant.wilt # would print out 'I wilted.'
 my_plant.introduce_myself # would, in this case, print out 'Sorry, but I appear to have wilted.'
 ```
 
-[Click here to go back to the Ruby OOP](../)
+[Click here to go back to the Ruby OOP chapter](../)
 
 [Click here to go to the next chapter](../objects/)

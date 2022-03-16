@@ -54,6 +54,6 @@ However, the different values being passed into the constructors of those classe
 
 This all might seem a bit confusing at first, but it will all be cleared up in future chapters.
 
-[Click here to go back to the Ruby OOP](../)
+[Click here to go back to the Ruby OOP chapter](../)
 
 [Click here to go to the next chapter](../classes/)
