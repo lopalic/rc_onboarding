@@ -49,6 +49,6 @@ my_function_with_default_values(parameter1: 'whatever', 'something else', 'whate
 my_function_with_default_values('something else', 'whatever again)
 my_function_with_default_values(parameter1: 'whatever', 'whatever again)
 ```
-[Click here to go back to the Ruby basics](../)
+[Click here to go back to the Ruby basics chapter](../)
 
 [Click here to go to the next chapter](../pry_debugger/)

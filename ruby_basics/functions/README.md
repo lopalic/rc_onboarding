@@ -18,6 +18,6 @@ The function end with the `end` keyword.
 
 To call a given function, you simply need to call its name, so for example, if you wanted to call `my_first_function` in your program/script, you would have a line saying `my_first_function` anywhere in your program/script.
 
-[Click here to go back to the Ruby basics](../)
+[Click here to go back to the Ruby basics chapter](../)
 
 [Click here to go to the next chapter](../functions_with_parameters/)

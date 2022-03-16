@@ -18,6 +18,6 @@ replacing the file name with whatever you named it and it would print out `'Hell
 
 You can try this out if you've cloned this repository by running `ruby hello` from this directory.
 
-[Click here to go back to the Ruby basics](../)
+[Click here to go back to the Ruby basics chapter](../)
 
 [Click here to go to the next chapter](../comments/)

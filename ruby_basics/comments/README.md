@@ -8,6 +8,6 @@ Documenting code with comments is usually prefered but is not obligatory.
 
 This is more or less all there is to say about comments in Ruby.
 
-[Click here to go back to the Ruby basics](../)
+[Click here to go back to the Ruby basics chapter](../)
 
 [Click here to go to the next chapter](../variables_and_types/)

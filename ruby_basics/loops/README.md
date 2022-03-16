@@ -32,6 +32,6 @@ So for a couple of examples:
 
 You can try out the example involving hashes by running `ruby example` from this directory!
 
-[Click here to go back to the Ruby basics](../)
+[Click here to go back to the Ruby basics chapter](../)
 
 [Click here to go to the next chapter](../functions/)

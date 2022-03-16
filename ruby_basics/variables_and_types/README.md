@@ -16,6 +16,6 @@ There are three main types of variables in Ruby:
 - Booleans (true or false)
 - Numbers (numeric values)
 
-[Click here to go back to the Ruby basics](../)
+[Click here to go back to the Ruby basics chapter](../)
 
 [Click here to go to the next chapter](../math/)

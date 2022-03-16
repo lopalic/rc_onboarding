@@ -18,6 +18,6 @@ To change an element in an array, you can assign the value to the desired elemen
 Also, unlike other languages, Ruby does not care about having different types in an array(list) object.
 Doing `puts [5, 'a', 3.1415, true]` would be completely valid syntax, as can be seen if you run `ruby example` from this directory.
 
-[Click here to go back to the Ruby basics](../)
+[Click here to go back to the Ruby basics chapter chapter](../)
 
 [Click here to go to the next chapter](../hashes_and_symbols/)

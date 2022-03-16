@@ -34,6 +34,6 @@ end
 ## Important!
 Take note of your loop conditions for `while` and `until` blocks, it's easy to make a mistake and end up in an infinite loop preventing your program/script from ever advancing to the next command!
 
-[Click here to go back to the Ruby basics](../)
+[Click here to go back to the Ruby basics chapter](../)
 
 [Click here to go to the next chapter](../loops/)

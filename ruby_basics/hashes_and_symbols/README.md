@@ -28,6 +28,6 @@ my_hash[:key_1] # prints out 'value 1'
 my_hash[:key_2] # prints out 'value 2'
 ```
 
-[Click here to go back to the Ruby basics](../)
+[Click here to go back to the Ruby basics chapter](../)
 
 [Click here to go to the next chapter](../conditional_statements/)
