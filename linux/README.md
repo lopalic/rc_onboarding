@@ -1,6 +1,7 @@
 # Linux
 
 This chapter will cover the following topics, split over knowledge levels:
+
 0. [I just want to listen and watch videos, no reading please!](videos/)
 1. [Basic](basic/)
 2. [Intermediate](intermediate/)
