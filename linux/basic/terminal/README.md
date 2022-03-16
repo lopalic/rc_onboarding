@@ -91,6 +91,8 @@ cd ..
 rm -rf fonts
 ```
 
+**Note** that you might need to install [patched powerline fonts](https://github.com/powerline/powerline/raw/develop/font/PowerlineSymbols.otf).
+
 And after some tinkering around with the fonts, your prompt should look like this:
 ![:O](images/powerline_prompt_demo.png)
 
