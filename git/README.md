@@ -11,3 +11,5 @@ Just remember to:
 - take it slow
 - don't rush things if you don't understand them at first
 - if everything is too much to take in at once, find a simple way of working for yourself, stick to it and build up from there
+- don't be afraid to ask if you don't understand something
+- last but not least, when in doubt or you mess up big time, use **git reflog**
